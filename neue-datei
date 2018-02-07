@@ -1,0 +1,6 @@
+public class neue_datei {
+    public static void main (String[] args) {
+        int x = 2%6;
+        System.out.println(x);
+    }
+}
